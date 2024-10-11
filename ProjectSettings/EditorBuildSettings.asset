@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Asset Resources/Asset Store/Gwangju_3D asset/Scenes/Building.unity
     guid: d9ba3fce492396840b80a329805e8b54
   - enabled: 0
@@ -14,6 +14,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/opening-scene.unity
     guid: e8fdd3021ee12da49a49bfad457ce18c
+  - enabled: 1
+    path: Assets/Scenes/p.unity
+    guid: 435ddd478ea26e348ace4735a36c6c84
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 1c7548525346b7a4db843dc35a79f5af,
       type: 2}
